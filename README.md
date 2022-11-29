@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Prince-Attrish
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning php and github
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🧑‍💻 I'm pursuing MCA 1st year.
+- 👨‍🎓 I've done my BCA in 2022.
+- 📫 How to reach me Email: vs3031999@gmail.com or Whatspp: +91-9910254105. 
 
-<!---
-Prince-Attrish/Prince-Attrish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-----x----- Thank-you -----x-----
